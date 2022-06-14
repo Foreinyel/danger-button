@@ -1,1 +1,1 @@
-# {{ packageName }}
+# danger-button
