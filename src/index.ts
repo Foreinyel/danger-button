@@ -1,3 +1,5 @@
-import Component from "./Component";
+import DangerButton from "./Component";
 
-export default Component;
+export {DangerButton};
+
+export default DangerButton;
