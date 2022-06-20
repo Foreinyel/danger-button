@@ -9,7 +9,7 @@ export interface DangerButtonProps {
 export const Component = (props: DangerButtonProps) => {
   return (
     <button onClick={props.onClick} className={css.dangerButton}>
-      {props.children} 2
+      {props.children}
     </button>
   );
 };
